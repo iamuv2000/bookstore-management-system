@@ -4,7 +4,7 @@
 
 - Open terminal and run 
 ```
-g++ sha256.cpp main.cpp -o main && ./sha256_example
+g++ sha256.cpp main.cpp -o sha256_example && ./sha256_example
 ```
 
 ## Objective
